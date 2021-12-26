@@ -1,0 +1,7 @@
+body
+{
+    background: linear-gradient(to bottom right,red, orange, yellow, rgb(53, 223, 53), rgb(78, 198, 245), rgb(129, 23, 204), violet);
+    font-family: 'David Libre', serif;
+    font-weight: bolder;
+    font-style: italic;
+}
